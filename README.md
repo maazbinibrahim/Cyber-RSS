@@ -16,6 +16,7 @@ Screenshots of your app and/or a link to your live demo
 Instructions for other developers on how to install and run your code on their local environment.
 
  Download Folder Reader-RSS
+
  1 git clone the folder in your C: Drive
 
  2 Run Python-install-check.bat from the folder. If python is not installed it will open the Microsoft store. Install Python from there.
